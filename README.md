@@ -4,34 +4,27 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 Education
 
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+M.S., Data Science | The University of The West of England Bristol
+PGD, Data Analytics | NBCC NB
 Work Experience
 
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+BI Developer @ First in Service (Nov 2023 - Present)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+Create interative report design and implementation of advanced business intelligence solutions using SQL, Power BI Report Builder(Stored Procedures), Power BI, Azure ADF, CosmoDB and database design, focusing on enhancing travel service operations.
+Oversee data quality audits and reviews, ensuring high standards of data integrity, impacting
+positively on overall business performance.
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
+BI Engineer @ Wunderman Thompson (April 2018 - Oct 2023)
 
-Data-Driven EEG Band Discovery with Decision Trees
+Designed and implemented complex data models and analytics solutions to track logistics performance indicators such as shipment times, costs, and carrier performance.
+Collaborate with logistics managers to understand their reporting needs and deliver custom dashboard solutions.
 
-Publication
+Data Analyst @ Fidelity Bank (July 2015 - Mar 2018)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed and implemented data analytics strategies to support the bank's financial products and services, leading to a 15% increase in product adoption and customer satisfaction. 
+Analyzed complex financial datasets to identify trends and insights, contributing to a 20% improvement in risk assessment accuracy and lending decisions.
+Created and maintained dynamic reports and dashboards for tracking key financial metrics, improving management's visibility into operational performance and market trends
 
-EEG Band Discovery
-
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-
-Publication
-
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 Bike Study
 
